@@ -1,8 +1,10 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains the starter code and the solutions for the Route Planning project. The route planning uses the A* algorithm to find the shortest path between two locations. The start location is indicated by green color and the end location by red color.
 
 <img src="map.png" width="600" height="450" />
+
+## Installation instructions
 
 ## Cloning
 
